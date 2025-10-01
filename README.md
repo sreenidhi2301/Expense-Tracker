@@ -13,7 +13,6 @@ It also uses **Docker for containerization** and is deployed on **Render** for c
 - 📊 Responsive and clean UI for smooth user experience  
 - ⚛️ Built with React components and state management  
 - 🐙 Version control with GitHub  
-- 🐳 Containerized with Docker and deployed on Render  
 
 ---
 
